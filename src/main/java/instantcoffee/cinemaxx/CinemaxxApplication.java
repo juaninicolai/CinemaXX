@@ -10,6 +10,7 @@ public class CinemaxxApplication {
         SpringApplication.run(CinemaxxApplication.class, args);
         System.out.println("Hello World!");
         System.out.println("Hello Jon");
+        System.out.println("Hello Mandatory Assigment");
     }
 
 }
