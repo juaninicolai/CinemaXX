@@ -1,3 +1,4 @@
+/*
 package instantcoffee.cinemaxx;
 import org.apache.catalina.Context;
 import org.apache.catalina.connector.Connector;
@@ -35,4 +36,4 @@ public class ServerConfig {
         connector.setRedirectPort(443);
         return connector;
     }
-}
+}*/
